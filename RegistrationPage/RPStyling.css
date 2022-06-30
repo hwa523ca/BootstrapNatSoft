@@ -1,0 +1,42 @@
+div {
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+div[id="but"]{
+    padding-left: 700px;
+}
+div[id="gend"]{
+    padding-left: 500px;
+    padding-bottom: 10px;
+}
+div[id="cour"]{
+    padding-left: 620px;
+    padding-bottom: 10px;
+}
+div[id="selA"]{
+    padding-left: 650px;
+    padding-bottom: 15px;
+}
+div[id="usn"]{
+    padding-left: 600px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+div[id="pwd"]{
+    padding-left: 602px;
+    padding-bottom: 10px;
+}
+div[id="ema"]{
+    padding-left: 607px;
+    padding-bottom: 10px;
+}
+input[id="email"] {
+    padding-left: 28px;
+}
+input[id="password"] {
+    padding-left: 5px;
+}
+div[id="address"] {
+    padding-left: 350px;
+    padding-bottom: 10px;
+}
